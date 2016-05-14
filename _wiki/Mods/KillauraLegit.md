@@ -1,11 +1,11 @@
 ---
-title: KillauraLegit
+title: KnightBros303
 category: Mod
 labels:
   - stub
 ---
 ## Contents
-{:.no_toc}
+{:.yes_toc}
 1. Contents
 {:toc}
 
